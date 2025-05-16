@@ -1,0 +1,53 @@
+index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>LASSIMO France - Sodium Saccharin</title>
+  <style>
+    body {
+      background-color: white;
+      font-family: Arial, sans-serif;
+      color: #111;
+      margin: 0;
+      padding: 40px;
+    }
+    .logo {
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      height: 60px;
+    }
+    .container {
+      margin-top: 100px;
+      max-width: 600px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .title {
+      font-size: 28px;
+      font-weight: bold;
+      margin-bottom: 30px;
+    }
+    .info {
+      font-size: 18px;
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+  <img src="logo.png" alt="LASSIMO Logo" class="logo">
+  <div class="container">
+    <div class="title">LASSIMO FRANCE</div>
+    <div class="info">
+      <strong>Product Description:</strong> Sodium Saccharin (Mesh 5-8)<br>
+      <strong>INCI:</strong> SODIUM SACCHARIN<br>
+      <strong>Application:</strong> Personal Care Industry<br>
+      <strong>Batch No.:</strong> SS8-150425-24<br>
+      <strong>Packaging:</strong> 25 kg Paper Bag<br>
+      <strong>Prod. Date:</strong> 15/04/2025<br>
+      <strong>Exp. Date:</strong> 14/04/2027
+    </div>
+  </div>
+</body>
+</html>
